@@ -1,4 +1,4 @@
-#Infinity Jet
+# Infinity Jet
 
 Infinity Jet is an immersive 2D space adventure game crafted with OpenGL and SDL2. 
 In this thrilling quest, players take control of a sleek jet on an epic journey back to Earth.
